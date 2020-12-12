@@ -17,6 +17,10 @@ const UsersSchema = new Schema(
       match: [/.+\@.+\..+/, "Please fill a valid email address"],
       //match: [/.+@.+\..+/, 'Please use a valid email address']
     },
+    thoughts: [{
+        type: Schema.Types.ObjectId,
+        ref: 'Thoughts'
+    }],
   },
   {
     toJSON: {
