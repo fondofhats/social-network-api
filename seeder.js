@@ -1,5 +1,4 @@
 const seeder = require('mongoose-seed');
-const Users = require('./models/Users');
  
 // Connect to MongoDB via Mongoose
 const db = "mongodb://localhost/social-network-api";
