@@ -60,7 +60,7 @@ Demonstration video:
 [View](https://drive.google.com/file/d/13TSmZ1bIIGr1eEh81m308jY7DSAg2W3T/view?usp=sharing)
 
 #### Reaction Routes
-![Thought_routes_gif](media/04_Reaction_POST_DELETE.gif?raw=true "Thought_routes_gif")
+![Reaction_routes_gif](media/04_Reaction_POST_DELETE.gif?raw=true "Reaction_routes_gif")
 Demonstration video:  
 [Download](media/04_Reaction_POST_DELETE.mp4)  
 [View](https://drive.google.com/file/d/1ytrCCpW3VLhub-1zNz56r6CHyh5RpzUz/view?usp=sharing)
