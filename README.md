@@ -54,7 +54,7 @@ Demonstration video:
 [View](https://drive.google.com/file/d/1zA-MiesaN5NbikVRgaQreMGkVAel5Olg/view?usp=sharing)
 
 #### Thought Routes
-![Thought_routes_gif](media/03_Thoughts_POST_GET_PUT_DELETE.gif?raw=true "Thought_routes_gif")
+![Thought_routes_gif](media/03_thoughts_POST_GET_PUT_DELETE.gif?raw=true "Thought_routes_gif")
 Demonstration video:  
 [Download](media/03_Thoughts_POST_GET_PUT_DELETE.mp4)  
 [View](https://drive.google.com/file/d/13TSmZ1bIIGr1eEh81m308jY7DSAg2W3T/view?usp=sharing)
