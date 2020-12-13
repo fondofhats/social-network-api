@@ -42,7 +42,7 @@ npm start
 
 
 #### DB Start and User Routes
-![User_routes_gif](media/01_Users_POST_GET_PUT_DELETE.gif?raw=true "User_routes_gif")
+![User_routes_gif](media/01_Users_POST_GET_PUT_DELETE.gif?raw=true "User_routes_gif")  
 Demonstration video:  
 [Download](media/01_Users_POST_GET_PUT_DELETE.mp4)  
 [View](https://drive.google.com/file/d/11L-_x6ktYP_KOblNNkceIn8Vj2F1CVam/view?usp=sharing)
