@@ -48,19 +48,19 @@ Demonstration video:
 [View](https://drive.google.com/file/d/11L-_x6ktYP_KOblNNkceIn8Vj2F1CVam/view?usp=sharing)
 
 #### Friends Routes
-![Friends_routes_gif](media/02_Friends_POST_DELETE.gif?raw=true "Friends_routes_gif")
+![Friends_routes_gif](media/02_Friends_POST_DELETE.gif?raw=true "Friends_routes_gif")  
 Demonstration video:  
 [Download](media/02_Friends_POST_DELETE.mp4)  
 [View](https://drive.google.com/file/d/1zA-MiesaN5NbikVRgaQreMGkVAel5Olg/view?usp=sharing)
 
 #### Thought Routes
-![Thought_routes_gif](media/03_thoughts_POST_GET_PUT_DELETE.gif?raw=true "Thought_routes_gif")
+![Thought_routes_gif](media/03_thoughts_POST_GET_PUT_DELETE.gif?raw=true "Thought_routes_gif")   
 Demonstration video:  
 [Download](media/03_Thoughts_POST_GET_PUT_DELETE.mp4)  
 [View](https://drive.google.com/file/d/13TSmZ1bIIGr1eEh81m308jY7DSAg2W3T/view?usp=sharing)
 
 #### Reaction Routes
-![Reaction_routes_gif](media/04_Reaction_POST_DELETE.gif?raw=true "Reaction_routes_gif")
+![Reaction_routes_gif](media/04_Reaction_POST_DELETE.gif?raw=true "Reaction_routes_gif")  
 Demonstration video:  
 [Download](media/04_Reaction_POST_DELETE.mp4)  
 [View](https://drive.google.com/file/d/1ytrCCpW3VLhub-1zNz56r6CHyh5RpzUz/view?usp=sharing)
