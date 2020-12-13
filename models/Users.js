@@ -14,7 +14,7 @@ const UsersSchema = new Schema(
       required: true,
       unique: true,
       // use REGEX to validate correct email
-      match: [/.+\@.+\..+/, "Please fill a valid email address"]
+      match: [/.+@.+\..+/, 'Please enter a valid email address.']
     },
     thoughts: [{
         type: Schema.Types.ObjectId,
